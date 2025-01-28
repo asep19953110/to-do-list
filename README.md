@@ -1,5 +1,5 @@
 MEMBUAT APLIKASI TO-DO-LIST | UKK 2025 RPL PAKET 2- MENGGUNAKAN PHP MYSQL
-Download file .rar
-simpan di xampp -htdocs 
-kemudian import database db_task.sql
-jalankan dengan perintah localhost/paket_2-UKK2025
+1. Download file .rar
+2. simpan di xampp -htdocs 
+3. kemudian import database             db_task.sql
+4. jalankan dengan perintah             localhost/paket_2-UKK2025
